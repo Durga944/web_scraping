@@ -1,0 +1,53 @@
+[
+    {
+        "name": "PatherPanchali",
+        "director": [
+            "Satyajit Ray"
+        ],
+        "bio": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+        "runtime": 125,
+        "gener": [
+            "Drama"
+        ],
+        "language": [
+            "Bengali"
+        ],
+        "country": "India",
+        "poster_img_url": "https://www.imdb.com/title/tt0048473/mediaviewer/rm2023787521"
+    },
+    {
+        "name": "Nayakan",
+        "director": [
+            "Mani Ratnam"
+        ],
+        "bio": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+        "runtime": 156,
+        "gener": [
+            "Crime",
+            "Drama"
+        ],
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "poster_img_url": "https://www.imdb.com/title/tt0093603/mediaviewer/rm1040255488"
+    },
+    {
+        "name": "AnbeSivam",
+        "director": [
+            "Sundar C."
+        ],
+        "bio": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+        "runtime": 160,
+        "gener": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "language": [
+            "Tamil"
+        ],
+        "country": "India",
+        "poster_img_url": "https://www.imdb.com/title/tt0367495/mediaviewer/rm3025237504"
+    }
+]
